@@ -2,9 +2,13 @@
 
 Dentro da pasta estão os códigos das 3 questões do TDE:
 
+
 -1.Pilha.java
+
 -2.Fila.java
+
 -3.Merge.java
+
 
 Todos os códigos já estão executáveis apenas rodando o main().
 
